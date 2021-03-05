@@ -5,5 +5,3 @@ This is an example file.
 Hello World!
 
 Hello from KP2
-
-TEST test
